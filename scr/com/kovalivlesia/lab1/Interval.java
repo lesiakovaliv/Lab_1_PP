@@ -1,4 +1,4 @@
-package com.kovalivlesia;
+package com.kovalivlesia.lab1;
 
 /**
  * A class that describes the interval between two numbers
