@@ -49,7 +49,6 @@ public class Main {
 
     private static List<Train> inputFromFile(String fileName) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName));
-
         List<Train> trains = new ArrayList<>();
 
         Train train = getTrain(bufferedReader);
